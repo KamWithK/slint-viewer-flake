@@ -1,2 +1,3 @@
-# slint-viewer-flake
+# Slint Viewer Flake
+
 Flake for the Slint Viewer
